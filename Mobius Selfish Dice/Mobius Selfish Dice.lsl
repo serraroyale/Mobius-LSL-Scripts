@@ -20,8 +20,6 @@
 //
 //  4. This notice may not be removed or altered from any resource distribution.
 //
-//Written by LGG Greg aka L GG under commision for royale.mobian
-//This could be optomized a bunch, please do it and let me know!
 
 
 //Specify the yoptions we need
