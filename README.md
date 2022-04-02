@@ -1,5 +1,14 @@
 # Mobius-LSL-Scripts
-uses 
+Scripts might not work on all Script Engines
+### Known Script Engines
+* LSO
+* Mono
+* XEngine
+* YEngine
+* XMREngine
+* Phlox
+* DotNetEngine
+
 ## Mobius Checkers Table
 uses YEngine with yoptions arrays, objects & norighttoleft
 ## Mobius Four In A Row
