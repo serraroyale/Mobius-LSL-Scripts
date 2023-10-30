@@ -1,6 +1,6 @@
 # Mobius-LSL-Scripts
 Scripts might not work on all Script Engines
-### Known Script Engines
+### Known LSL Script Engines
 * LSO
 * Mono
 * XEngine
